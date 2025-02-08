@@ -28,7 +28,7 @@ function sendMessage() {
         userMessageElement.classList.add("message", "user-message");
         chatbox.appendChild(userMessageElement);
 
-        fetch("http://127.0.0.1:8000/api/chat/", { 
+        fetch("https://jaideep-singh-portfolio.onrender.com/api/chat/", { 
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ message: message }),
