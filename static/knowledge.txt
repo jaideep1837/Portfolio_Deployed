@@ -1,0 +1,68 @@
+Jaideep Singh
+UG (V Year II Semester)
+IMSc Applied Mathematics
+Contact No: +91-9672652452
+Email: jaideep_s@ma.iitr.ac.in
+Registration No: 20312014/2025
+Indian Institute of Technology, Roorkee
+
+Area of Interest
+Machine Learning, Deep Learning, Generative AI
+
+Education
+2024 - Int. M.Sc. 5th Year, Indian Institute of Technology, Roorkee, CGPA: 7.314
+2019 - Intermediate (Class XII), Navjeevan Aca Sr Sec Sch, Near Housing Board, Sikar, Percentage: 93.00%
+2017 - Matriculate (Class X), Sri Gururam Rai Pub School Sri Ganganagar Raj (CBSE), CGPA: 10.000
+
+Internships
+Web Development Internship | Nahar Om Group (May 2024 - July 2024)
+- Designed Dynamic discounting module enhancing data visualization and analysis in loan management system.
+- Engineered entire module from the ground up using Django, calculating dynamically changing interest rates.
+- Integrated the cultivated code into repositories collaborating closely with a team of web developers.
+
+Startup Profit Prediction Using ML | Exposys Data Labs (October 2023 - November 2023)
+- Achieved 95% accuracy in predicting profits by constructing linear, ridge, lasso, and elastic net regression models.
+- Conducted EDA and assessed 5 key assumptions of regression, including multicollinearity and homoscedasticity.
+- Designed models to forecast company profits using variables such as R&D, Administration, and Marketing expenditures.
+
+Web Scraping Internship | Skillvoid (January 2023 - February 2023)
+- Developed and optimized a web scraping algorithm targeting Watchoutinvestors.com, improving its efficiency by 20x.
+- Achieved 97% accuracy in flagging loan applications from companies with directors involved in defaulted companies.
+- Gained expertise in web scraping using Python, focusing on libraries like BeautifulSoup and FuzzyWuzzy.
+
+Projects
+Study of BurgersHuxley Equation Using Neural Network | IIT Roorkee (August 2024 - November 2024)
+- A neural network approach based on Lie series in Lie groups of differential equations (symmetry) for solving Burgers–Huxley nonlinear partial differential equations, considering initial or boundary value terms in the loss functions. 
+- The proposed technique yields closed analytic solutions that possess excellent generalization properties. 
+- This approach differs from existing deep neural networks in that it employs only shallow neural networks. This choice significantly reduces the parameter cost while retaining the dynamic behavior and accuracy of the solution. A thorough comparison with its exact solution was carried out to validate the practicality and effectiveness of proposed method.
+
+AI Chatbot | Self Project (August 2024)
+- Formulated LLM project using Langchain and Streamlit to build a news research tool for equity analysts.
+- Created an AI chatbot that assists in conducting research by providing accurate information from news sources.
+- Implemented OpenAI API and FAISS for generating responses and vector-based retrieval of relevant news articles.
+
+Crop Recommendation System Using ML | Mathematics Department, IIT Roorkee (December 2023 - February 2024)
+- Developed Logistic Regression, Naive Bayes, and KNN, achieving ensemble model accuracy of 94%.
+- Generated Artificial Data for various crops, Designed the fully functional Django App for Recommendations.
+- Analyzed over 7 critical environmental variables, including soil type and pH levels, to develop tailored recommendations.
+
+Enhanced Secret Sharing Scheme Using Cryptography | IIT Roorkee (January 2023 - May 2023)
+- Innovated a Doubly secured system using Python's PyCrypto toolkit to significantly enhance data confidentiality.
+- Implemented encryption algorithms (DES, 3DES, AES, ARC4, CAST128) alongside Shamir's Secret Sharing Scheme.
+- Applied mathematical concepts such as Lagrange Interpolation Theorem, for accurate share regeneration.
+
+Awards / Scholarships / Academic Achievements
+- Achieved advancement to 2nd round of the 2019 Physics Olympiad organized by the Indian National Olympiad.
+- Secured AIR 1041 in Jee Main and AIR 4735 in Jee Advanced 2020 competing with 1.17 million candidates.
+- Secured AIR 3116 in Jee Main and AIR 12256 in Jee Advanced 2019 competing with 1.23 million candidates.
+
+Skills
+- Computer languages: Python, C++
+- Software Packages: Scikit-Learn, Tensorflow, MySQL, Django, Power-BI
+- Additional Courses: Machine Learning and Deep Learning Specialization (Coursera) by Andrew NG, International Winter Training Course Nature Inspired Optimization Techniques.
+- Languages Known: Hindi, English, Punjabi
+
+Positions of Responsibility & Extra Curriculars
+Co-Coordinator | Thomso IITR 2022 (October 2022)
+- Spearheaded a team of 4 in the Controls and Management section of Thomso IIT Roorkee 2022.
+- Streamlined registration process of over 3000 participants.

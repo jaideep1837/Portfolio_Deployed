@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 .chatbot-container {
     position: fixed;
@@ -67,12 +67,12 @@ body {
     max-width: 70%;
 }
 .user-message {
-    background:  #aaaaaa;
+    background:  #E3E7EA;
     color: black;
     align-self: flex-start;
 }
 .bot-message {
-    background:  #7f7f7f;
+    background:  #D1D5D8;
     color: black;
     align-self: flex-end; /* Align bot messages to the right */
 }
