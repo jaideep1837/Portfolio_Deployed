@@ -2,23 +2,23 @@ from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 import json
 from google import genai
-from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
-import os
+# from langchain_community.vectorstores import FAISS
+# from langchain_huggingface import HuggingFaceEmbeddings
+# import os
 
-# Load vector database from file
-def load_vector_db(db_path="faiss_index"):
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    vector_db = FAISS.load_local(db_path, embeddings, allow_dangerous_deserialization=True)
-    return vector_db
+# # Load vector database from file
+# def load_vector_db(db_path="faiss_index"):
+#     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+#     vector_db = FAISS.load_local(db_path, embeddings, allow_dangerous_deserialization=True)
+#     return vector_db
 
-# Retrieve relevant data from vector database
-def retrieve_relevant_data(vector_db, query):
-    retriever = vector_db.as_retriever()
-    relevant_docs = retriever.get_relevant_documents(query)
-    # Extracting the page content
-    page_contents = [doc.page_content for doc in relevant_docs]
-    return "\n".join(page_contents)
+# # Retrieve relevant data from vector database
+# def retrieve_relevant_data(vector_db, query):
+#     retriever = vector_db.as_retriever()
+#     relevant_docs = retriever.get_relevant_documents(query)
+#     # Extracting the page content
+#     page_contents = [doc.page_content for doc in relevant_docs]
+#     return "\n".join(page_contents)
 
 def generator(query):
     ### uncomment below code to use RAG
